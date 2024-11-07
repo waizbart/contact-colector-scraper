@@ -1,3 +1,5 @@
 emails.csv
 phones.csv
 .venv
+dist
+build
